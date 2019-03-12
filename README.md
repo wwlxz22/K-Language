@@ -1,3 +1,5 @@
+我在思考简化版的编程语言对儿童来说真的有意义嘛？还说图形化、拖拽更适合儿童学习。
+
 # K-Language
 K语言，为青少年编程设计的语言。K-Language The Program Language For Kid
 
